@@ -13,6 +13,9 @@
         android:theme="@style/Theme._21a100100221_nguyenducluong"
         tools:targetApi="31">
         <activity
+            android:name=".Detail"
+            android:exported="false" />
+        <activity
             android:name=".UploadFood"
             android:exported="false" />
         <activity
